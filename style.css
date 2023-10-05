@@ -38,7 +38,7 @@ nav li a{
 }
 nav li a:hover{
     background-color: white;
-    color: rgb(255, 0, 234);
+    color: rgb(0, 247, 255);
 }
 .banner{
     height: 100vh;
